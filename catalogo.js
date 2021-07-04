@@ -30,3 +30,4 @@ const catalogo = [
 ];
 
 module.exports = catalogo;
+
